@@ -7,25 +7,34 @@
     ],
     "Series": [
         {
-            "Label": "Qtd. de Operações de cessão",
+            "Label": "Fluxo esperado",
             "Values": [
                 400.0,
                 400.0,
-                300.0,
-                220.0
+                350.0,
+                300.0
             ]
         },
         {
-            "Label": "Desembolsado",
+            "Label": "Em aberto",
             "Values": [
-                160.0000,
-                180.0000,
+                400.0000,
+                350.0000,
                 300.0000,
-                140.0000
+                200.0000
             ]
         },
         {
             "Label": "Agendado",
+            "Values": [
+                500.0000,
+                200.0000,
+                500.0000,
+                430.0000
+            ]
+        },
+        {
+            "Label": "Liquidado",
             "Values": [
                 500.0000,
                 200.0000,
