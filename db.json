@@ -3,19 +3,16 @@
             {
                 "CNPJ": 11222444000122,
                 "Name": "CIELO SA",
-                "Contracts": [
-                        "c-123",
-                        "c-222"
-                    ]
             },
             {
                 "CNPJ": 11222444000133,
                 "Name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
-                "Contracts": [
-                        "c-221",
-                        "c-222"
-                    ]
             }
+        ],
+    "Contracts": [
+            "c-111",
+            "c-222",
+            "c-333"
         ],
     "Data": {
         "Labels": [
