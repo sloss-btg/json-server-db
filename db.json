@@ -1,17 +1,17 @@
 {
-    "Clientes": [
+    "Drawee": [
             {
                 "CNPJ": 11222444000122,
-                "Nome": "CIELO SA",
-                "Contratos": [
+                "Name": "CIELO SA",
+                "Contracts": [
                         "c-123",
                         "c-222"
                     ]
             },
             {
                 "CNPJ": 11222444000133,
-                "Nome": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
-                "Contratos": [
+                "Name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO",
+                "Contracts": [
                         "c-221",
                         "c-222"
                     ]
