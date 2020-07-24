@@ -2,6 +2,7 @@
     "Clientes": [
             {
                 "CNPJ": 11222444000122,
+                "Nome": "CIELO SA"
                 "Contratos": [
                         "c-123",
                         "c-222"
@@ -9,6 +10,7 @@
             },
             {
                 "CNPJ": 11222444000133,
+                "Nome": "COMPANHIA BRASILEIRA DE DISTRIBUICAO"
                 "Contratos": [
                         "c-221",
                         "c-222"
