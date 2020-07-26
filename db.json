@@ -1,26 +1,26 @@
 {
     "Drawee": [
             {
-                "Key": "11222444000122",
+                "CNPJ": "11222444000122",
                 "Name": "CIELO SA"
             },
             {
-                "Key": "11222444000133",
+                "CNPJ": "11222444000133",
                 "Name": "COMPANHIA BRASILEIRA DE DISTRIBUICAO"
             }
         ],
     "Contracts": [
             {
-                "Key": "c-111",
-                "Name": "Contrato XYZ-1111111"
+                "Id": "c-111",
+                "Title": "Contrato XYZ-1111111"
             },
             {
-                "Key": "c-222",
-                "Name": "Contrato XYZ-2222222"
+                "Id": "c-222",
+                "Title": "Contrato XYZ-2222222"
             },
             {
-                "Key": "c-333",
-                "Name": "Contrato XYZ-3333333"
+                "Id": "c-333",
+                "Title": "Contrato XYZ-3333333"
             }
         ],
     "Data": {
